@@ -1,0 +1,6 @@
+<?php
+
+$db_connect="mysql:host=localhost;dbname=tt_rss";
+$db_user="tt_rss";
+$db_pass="totallysecret";
+
